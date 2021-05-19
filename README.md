@@ -1,4 +1,4 @@
-## Hola, I'm [Eraldo Vicente!] 👋
+## Hi, I'm Eraldo Vicente! 👋
 
 <a href="https://twitter.com/EraldoVicente4">
   <img align="left" alt="Eraldo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,16 +11,16 @@
 <br/>
 
 
-
+- ❤ I love technology.
 - 🌱 I’m currently learning more about Flutter.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Javascript or any tech related stuff.
+- ✏️ My hobby is drawing.
 
 ## Things I code with
  
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> 
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logoColor=white" /> 
-
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" /> 
+<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
