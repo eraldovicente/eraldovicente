@@ -1,4 +1,4 @@
-## Hi, I'm Eraldo Vicente! 👋
+## Hi, I'm Eraldo Vicente! 
 
 <a href="https://twitter.com/EraldoVicente4">
   <img align="left" alt="Eraldo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,8 +11,7 @@
 <br/>
 
 
-❤ I LOVE JAVA.
+I LOVE JAVA.
 
-###  💻 🤓
 </div>
 
