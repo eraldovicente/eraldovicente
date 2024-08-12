@@ -11,10 +11,7 @@
 <br/>
 
 
-- ❤ I love technology.
-- 🌱 I’m currently learning more about Flutter.
-- 💬 Ask me about Javascript or any tech related stuff.
-- ✏️ My hobby is drawing.
+- ❤ I love Java.
 
 ## Things I code with
  
