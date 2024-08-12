@@ -11,7 +11,7 @@
 <br/>
 
 
-- ❤ I love Java.
+- ❤ I LOVE JAVA.
 
 ## Things I code with
  
